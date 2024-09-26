@@ -1,2 +1,2 @@
 this is the first check point
-this is the second check point
+this is the second check point, add a word

@@ -6,4 +6,4 @@ git add .
 git add *.java
 git commit - m "message"
 git log ,q
-
+git diff <id> -- <fileName>
