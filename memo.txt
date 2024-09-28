@@ -1,5 +1,5 @@
 git config --global user.name "Kevin Liao"
-git config --global user.email "Kevin Liao"
+git config --global user.email "kevin.josn@gmial.com"
 git init
 git status 
 git add .
@@ -7,3 +7,12 @@ git add *.java
 git commit - m "message"
 git log ,q
 git diff <id> -- <fileName>
+
+create a new repository in github
+git remote add origin https://github.com/KevinLiao0705/gitTest2.git
+git branch -M main
+git push -u origin main
+
+git clone https://github.com/KevinLiao0705/gitTest2.git
+git push
+git pull
