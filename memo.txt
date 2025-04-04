@@ -16,3 +16,4 @@ git push -u origin main
 git clone https://github.com/KevinLiao0705/gitTest2.git
 git push
 git pull
+git reset hard --xxxxxxxxxxxxxxxxxxxxxxxxxx
